@@ -6,6 +6,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+      - run: echo ${{ secrets.VSCODE_MARKETPLACE_PAT }}
       - name: Publish VSCode Extension
         uses: mrzli-gh-actions/publish-vscode-extension@v1.0.0
         with:
