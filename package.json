@@ -2,7 +2,7 @@
   "name": "ep-vscode-tools",
   "displayName": "EP VSCode Tools",
   "description": "VSCode Tools Extension Pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "goran-mrzljak",
   "repository": {
     "type": "git",
