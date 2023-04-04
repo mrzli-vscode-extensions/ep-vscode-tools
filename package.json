@@ -3,6 +3,11 @@
   "displayName": "EP VSCode Tools",
   "description": "VSCode Tools Extension Pack",
   "version": "0.0.1",
+  "publisher": "goran-mrzljak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrzli-vscode-extensions/ep-vscode-tools"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
