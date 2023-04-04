@@ -1,0 +1,17 @@
+{
+  "name": "ep-vscode-tools",
+  "displayName": "EP VSCode Tools",
+  "description": "VSCode Tools Extension Pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "donjayamanne.githistory",
+    "github.copilot",
+    "vscodevim.vim"
+  ]
+}
