@@ -2,7 +2,7 @@
   "name": "ep-vscode-tools",
   "displayName": "EP VSCode Tools",
   "description": "VSCode Tools Extension Pack",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "goran-mrzljak",
   "repository": {
     "type": "git",
@@ -15,8 +15,8 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "donjayamanne.githistory",
+    "eamodio.gitlens",
     "github.copilot",
-    "vscodevim.vim"
+    "grapecity.gc-excelviewer"
   ]
 }

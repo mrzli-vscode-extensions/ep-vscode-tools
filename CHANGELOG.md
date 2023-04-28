@@ -6,4 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.4] - 2023-04-28
+
+### Added
+
+- Add `grapecity.gc-excelviewer`.
+
+### Changed
+
+- Replace `donjayamanne.githistory` with `eamodio.gitlens`.
+
+### Removed
+
+- Remove `vscodevim.vim`.
